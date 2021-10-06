@@ -1,0 +1,83 @@
+Regression:
+Linear 
+Logistic 
+Stepwise
+Multivariate adaptive regression splines (MARS)
+Locally Estimated scatterplot smoothing (LOESSS)
+Ordinary Least squares regression (OLSR)
+
+Rule system:
+Cubist
+One Rule (ONER)
+Zero Rule (ZEROR)
+Repeated incrementatl pruning to produce error reduction (RIPPER)
+
+Regularization:
+Ridge regression L1
+Least absolute shrinkage and selection operator (LASSO) L2
+Elastic Net
+Least Anlge Regression (LARS)
+
+Neural Networks:
+Pereptron
+Back propagation
+HopField network
+
+Ensemble:
+Random Forest
+Gradient boosting machines (GBM)
+Boosting
+Bootstrapped aggregation (Bagging)
+AdaBoost
+Stacked generalization (Blending)
+Gradient boosted regression trees (GBRT)
+
+Deepl Learning:
+Deep Boltzmann Machine (DBM)
+Deep belief networks (DBN)
+Convoliutional Neural Network (CNN)
+Stacked Auto encoders
+
+Bayesian:
+Naive Bayes
+Average one-dependence estimators (AODE)
+Bayesian belief netwrok (BNN)
+Gaussian Naive Bayes (GNB)
+Multinomial Naives Bayes
+Bayesian network (BN)
+
+Decsion tree:
+Classification and regression tree (CART)
+Iterative Dichotomiser 3 (ID3)
+C4.5
+C5.0
+Chi-squared automatic intreaction detection (CHAID)
+Decision stump
+COnditional Decision Trees
+M5
+
+Dimensionality reduction:
+Principal component analysis (PCA)
+Partial least square regression (PLSR)
+Sammon mapping
+Multidimensional scaling (MDS)
+Projection Pursuit
+Principal component regression (PCR)
+Partial least squares discriminant analysis
+Mixture discriminant analysis (MDA)
+Quadratic discriminant analysis (QDA)
+Regularized discrimnant analysis (RDA)
+Flexible discriminant analysis (FDA)
+Linear discriminant analysis (LDA)
+
+Instanced Based:
+K-Nearest Neighbour (KNN)
+Learning vector quantization (LVQ)
+Self organizing map (SOM)
+Locally weighted learning (LWL)
+
+Clustering:
+k-means
+k-medians
+Expectation maximization
+Hierarchical clustering
