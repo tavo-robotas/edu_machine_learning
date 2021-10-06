@@ -6,7 +6,7 @@ To follow the course smoothly you will need to install on your computer:
 - python (https://www.python.org/downloads/release/python-386/)
 - jupyter lab (https://jupyter.org/)
 - scikit-learn (https://scikit-learn.org/stable/install.html)
-- 
+
 Lesson content is updated twice a week (usually on Tuesdays and Fridays).
 
 ![MLALL](https://raw.githubusercontent.com/tavo-robotas/class/master/images/MLALL.png)
