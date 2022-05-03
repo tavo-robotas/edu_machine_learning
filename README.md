@@ -1,5 +1,5 @@
 We invite you to join tavorobotas machine learning lectures online on Wednesday at 17:00 (GMT+3) on TS discrod server:
-https://discord.gg/7tDNHd5zJg
+
 
 To follow the course smoothly you will need to install on your computer:
 - git (https://git-scm.com/),
