@@ -12,4 +12,6 @@ To follow the course smoothly you will need to install on your computer:
 
 Lesson content is updated twice a week (usually on Wednesday and Fridays).
 
-![MLALL](https://raw.githubusercontent.com/tavo-robotas/class/master/images/MLALL.png)
+![MLALL](https://raw.githubusercontent.com/tavo-robotas/edu_machine_learning/main/MLALL.png)
+
+
